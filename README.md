@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appajireddyv&label=Profile%20views&color=0e75b6&style=flat" alt="appajireddyv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=appajireddyv" alt="appajireddyv" /></a> </p>
+<p align="left"> <a  alt="appajireddyv" /></a> </p>
 
 - 🔭 I’m currently working on [Gym Buddy](https://gym-buddy-psi.vercel.app/)
 
